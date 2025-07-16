@@ -56,7 +56,7 @@ The **Realtime Feedback System** is a real-time platform designed to collect and
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/gopikrish1/Realtime-Feedback-Form.git
+   git clone https://github.com/______________/Realtime-Feedback-Form.git
    ```
 
 2. **Navigate to the project directory**:
